@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1163",
+      "name": "admin",
+      "password": "123",
+      "email": "admin@gmail.com",
+      "gender": "Male",
+      "role": "Admin",
+      "isActive": true
+    },
+    {
+      "id": "9491",
+      "name": "Zuber Jordan",
+      "password": "123",
+      "email": "zuber@gmail.com",
+      "gender": "Male",
+      "role": "User",
+      "isActive": true
+    },
+    {
+      "id": "8dd7",
+      "name": "Ahsan Shaikh",
+      "password": "123",
+      "email": "ahsan@gmail.com",
+      "gender": "Male",
+      "role": "User",
+      "isActive": true
+    },
+    {
+      "id": "9a82",
+      "name": "Junaid Khan",
+      "password": "123",
+      "email": "junaid@gmail.com",
+      "gender": "Male",
+      "role": "User",
+      "isActive": false
+    }
+  ]
+}
